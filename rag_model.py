@@ -19,8 +19,8 @@ warnings.filterwarnings('ignore')
 
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
 embeddings_save_path = 'text_and_embeddings.csv'
-# pdf_path = './human-nutrition-text.pdf'
-pdf_path = 'PG_Information_Brochure_Jul_2021.pdf'
+pdf_path = './human-nutrition-text.pdf'
+# pdf_path = 'PG_Information_Brochure_Jul_2021.pdf'
 # model_name = 'all-mpnet-base-v2'
 model_name = 'all-MiniLM-L6-v2'
 model_llm_name = 'llama3-8b-8192'

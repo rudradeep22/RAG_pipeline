@@ -9,3 +9,5 @@ tqdm==4.66.2
 transformers==4.38.2
 groq
 python-dotenv
+# streamlit
+gradio

@@ -1,4 +1,5 @@
 .env
+text_and_embeddings.csv
 venv/*
 .vscode/*
-text_chunks_and_embeddings_df.csv
+
