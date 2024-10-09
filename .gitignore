@@ -1,5 +1,5 @@
 .env
-text_and_embeddings.csv
 venv/*
 .vscode/*
+*.csv
 
